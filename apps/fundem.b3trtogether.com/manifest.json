@@ -1,0 +1,15 @@
+{
+  "name": "FundEm Network",
+  "href": "https://pump.b3trtogether.com",
+  "desc": "FundEm Network is a fair-launch meme token launchpad and trading hub on VeChain. Anyone can launch a token in one tap and trade it with B3TR on a transparent bonding curve; once fully funded, liquidity automatically graduates to BetterSwap and is locked forever. Every launch and trade earns FUNDEM rewards, and all activity is public on our own explorer.",
+  "category": "defi",
+  "tags": [
+    "exchange",
+    "dex",
+    "tool",
+    "finance",
+    "utilities",
+    "swap"
+  ],
+  "isVeWorldSupported": true
+}
